@@ -35,7 +35,7 @@ namespace QuickstartToastPendingUpdate.Helpers
                         {
                             new AdaptiveText()
                             {
-                                Text = "Would you like to lunch today?"
+                                Text = "Would you like to order lunch today?"
                             }
                         }
                     }
